@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <item android:id="@+id/play"
+          android:title="Play" 
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/close"
+          android:title="Close" 
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/highest_score"
+          android:title="Highest Score" 
+          android:showAsAction="ifRoom" />
+   <item android:id="@+id/share"
+          android:title="Share." 
+          android:showAsAction="ifRoom" />
+   <item android:id="@+id/facebook"
+          android:title="Facebook" 
+          android:showAsAction="ifRoom" />
+   <item android:id="@+id/twitter"
+          android:title="Twitter" 
+          android:showAsAction="ifRoom" />
+</menu>

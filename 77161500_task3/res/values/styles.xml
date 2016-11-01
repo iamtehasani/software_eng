@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+<style name="walkrow">
+<item name="android:background">#FFD555</item>
+<item name="android:drawablePadding">10sp</item>
+<item name="android:layout_margin">8dp</item>
+</style>
+<style name="walktext">
+<item name="android:textSize">30sp</item>
+<item name="android:padding">15dp</item>
+<item name="android:textColor">#FFFF0000</item>
+</style>
+</resources>

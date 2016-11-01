@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guessing Game</string>
+    <string name="title_action_bar">Action Bar </string>
+    <string name="webviewtitle">Web View </string>
+    <string name="prompt">The Action bar now contains menu options.\nPress the Menu Options button to see options that didn\'t fit on the Action Bar</string>
+    <string name="menuprompt">Press the Menu Options button to see the main options</string>
+    <string name="prompturl">Enter URL Below to call URI Implicit Intent.\n
+        If inside uni, either use an internally hosted URL\n
+        or just leave blank to use the default</string>
+
+    <color name="forest_green">#005500</color>
+    <color name="silver">#D9D9D9</color>
+
+    <string name="walkid">Walk ID</string>
+    <string name="butBackground">Background Colour</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_activity_two">ActivityTwo</string>
+    <string name="walkImageDescription">Walk Image Description</string>
+    <string name="title_activity_guesing_game">GuesingGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game_central">GameCentral</string>
+
+</resources>
